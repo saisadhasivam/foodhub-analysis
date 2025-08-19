@@ -84,8 +84,8 @@ If you use this analysis or structure, please cite as:
 > Sadhasivam, S. (2025). *FoodHub Data Analysis (PGP‑AIML): Exploratory Study & Business Insights*. GitHub Repository.
 
 ## License
-This project is released under the **MIT License** (add `LICENSE` if you adopt this default).
+This project is released under the **UAT Austin License**).
 
 ## Acknowledgements
-- Great Learning / PGP‑AIML coursework context.  
+- PGP‑AIML coursework context.  
 - Thanks to instructors/peers for feedback on EDA best practices.
