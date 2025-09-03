@@ -70,10 +70,10 @@ foodhub-analysis/
 ├─ notebooks/
 │  └─ FoodHub_Analysis.ipynb
 ├─ data/
-│  └─ foodhub_order.csv         # not tracked in git if large/sensitive
+│  └─ foodhub_order.csv        
 ├─ reports/
-│  └─ figures/                  # auto-saved plots (optional)
-├─ src/                         # utility modules (optional)
+│  └─ figures/                  
+├─ src/                       
 ├─ requirements.txt
 ├─ .gitignore
 └─ README.md
